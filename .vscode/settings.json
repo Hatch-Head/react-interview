@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.formatOnSave": false,
+
+    "files.exclude": {
+      "**/node_modules": true
+    },
+  }

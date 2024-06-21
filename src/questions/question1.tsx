@@ -1,5 +1,4 @@
 
-
 export const Question1 = () => {
   /**
    * Step 1 Initial setup:
@@ -25,11 +24,12 @@ export const Question1 = () => {
     "Grapes",
   ];
 
+
   return (
-    <div>
+    <>
       <h2>Question 1</h2>
       <input type="text" placeholder="Search for fruit " />
-    </div>
+    </>
   );
 };
 
