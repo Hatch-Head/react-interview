@@ -29,8 +29,6 @@ export const Question1 = () => {
     <>
       <h2>Question 1</h2>
       <input type="text" placeholder="Search for fruit " />
-      
-
     </>
   );
 };
