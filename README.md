@@ -9,7 +9,7 @@ The test should take around 30 minutes.
 
 ## Editor setup
 
-**⚠️ Important** Disable any code extensions you have installed (co-pilot etc)
+**⚠️ Important** Disable any code generations / suggestion extensions you have installed (co-pilot etc)
 
 In VSCODE, you can use the Command Palette (Ctrl+Shift+P) and type Disable All Installed Extensions to disable all extensions temporarily.
 
