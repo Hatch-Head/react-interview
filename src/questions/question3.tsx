@@ -4,8 +4,8 @@
  * 
  * Requirements
  * - The input should only accept numbers
- * - It should have a prop called maxLength
- * - The 
+ * - It should have an optional prop called maxLength
+ * - The input should be formatted as follows: (123) 456-7890
  * 
  */
 
