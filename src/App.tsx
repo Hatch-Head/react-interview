@@ -5,7 +5,7 @@ import Question3 from "./questions/question3";
 
 function App() {
   return (
-    <Question1 />
+    <Question3 />
   );
 }
 
